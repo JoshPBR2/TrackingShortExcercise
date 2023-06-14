@@ -47,7 +47,7 @@ endif
 endif
 LIBTYPE:= 
 
-subdirs_src+=$(filter-out Documentation, src_RecoVertex)
+subdirs_src+=$(filter-out Documentation, src_RecoVertex src_MyDirectory)
 
 COND_SERIALIZATION:=$(SCRAM_SOURCEDIR)/CondFormats/Serialization/python/condformats_serialization_generate.py
 ALL_EXTRA_PRODUCT_RULES+=LCG
