@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=MyDirectory
+subdirs_src_MyDirectory = src_MyDirectory_PrintOutTracks

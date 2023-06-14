@@ -3,7 +3,11 @@ import FWCore.ParameterSet.Config as cms
 process = cms.Process("RUN")
 
 process.source = cms.Source("PoolSource",
+<<<<<<< HEAD
     fileNames = cms.untracked.vstring("/store/data/Run2018D/SingleMuon/AOD/12Nov2019_UL2018-v8/270001/1F848EE6-F5A5-3440-AAA8-0EFE540734A0.root"))
+=======
+    fileNames = cms.untracked.vstring("root://cmsxrootd.fnal.gov//store/data/Run2018D/SingleMuon/AOD/12Nov2019_UL2018-v8/270001/1F848EE6-F5A5-3440-AAA8-0EFE540734A0.root"))
+>>>>>>> a1b273db42db94e8567877449cad97940b7693b3
 process.maxEvents = cms.untracked.PSet(input = cms.untracked.int32(5))
 
 process.MessageLogger = cms.Service("MessageLogger",
