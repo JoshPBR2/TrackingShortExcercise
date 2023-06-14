@@ -1,0 +1,8 @@
+tmp/slc7_amd64_gcc700/src/RecoVertex/V0Producer/src/RecoVertexV0Producer/V0Producer.cc.o: \
+ src/RecoVertex/V0Producer/src/V0Producer.cc \
+ src/RecoVertex/V0Producer/src/V0Fitter.h \
+
+tmp/slc7_amd64_gcc700/src/RecoVertex/V0Producer/src/RecoVertexV0Producer/V0Fitter.cc.o: \
+ src/RecoVertex/V0Producer/src/V0Fitter.cc \
+ src/RecoVertex/V0Producer/src/V0Fitter.h \
+

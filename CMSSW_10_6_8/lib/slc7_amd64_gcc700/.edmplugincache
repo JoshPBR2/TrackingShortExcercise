@@ -1,0 +1,4 @@
+pluginRecoVertexV0Analyzer.so V0Analyzer CMS%EDM%Framework%Module
+pluginRecoVertexV0Analyzer.so V0Analyzer CMS%EDM%Framework%ParameterSet%Description
+pluginRecoVertexV0Producer.so V0Producer CMS%EDM%Framework%Module
+pluginRecoVertexV0Producer.so V0Producer CMS%EDM%Framework%ParameterSet%Description

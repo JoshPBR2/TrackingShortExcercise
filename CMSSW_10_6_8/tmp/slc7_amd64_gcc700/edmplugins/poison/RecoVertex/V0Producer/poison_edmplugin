@@ -1,0 +1,4 @@
+plugin-poisoned-RecoVertexV0Analyzer.so V0Analyzer CMS%EDM%Framework%Module
+plugin-poisoned-RecoVertexV0Analyzer.so V0Analyzer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-RecoVertexV0Producer.so V0Producer CMS%EDM%Framework%Module
+plugin-poisoned-RecoVertexV0Producer.so V0Producer CMS%EDM%Framework%ParameterSet%Description
